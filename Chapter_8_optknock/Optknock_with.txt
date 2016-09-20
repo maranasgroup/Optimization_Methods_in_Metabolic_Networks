@@ -1,0 +1,70 @@
+****************************************
+
+Number of Interventions (k) =        1.00
+
+****************************************
+
+Iteration No. =        1.00
+
+v(ac) = 15.24572786
+
+knockouts :
+
+'ATPS4rpp_f'   0.00000000
+
+********************
+
+Iteration No. =        2.00
+
+v(ac) = 5.92331631
+
+knockouts :
+
+'PGK_f'   0.00000000
+
+********************
+
+Iteration No. =        3.00
+
+v(ac) = 5.92331631
+
+knockouts :
+
+'GAPD_f'   0.00000000
+
+********************
+
+Iteration No. =        4.00
+
+v(ac) = 3.97841716
+
+knockouts :
+
+'CYTBO3_4pp'   0.00000000
+
+********************
+
+Iteration No. =        5.00
+
+v(ac) = 3.71119874
+
+knockouts :
+
+'ENO_f'   0.00000000
+
+********************
+
+Iteration No. =        6.00
+
+v(ac) = 3.71119874
+
+knockouts :
+
+'PGM_f'   0.00000000
+
+********************
+
+No feasible solution achieved/max n reached, modelstat :         1.00
+
+
+****************************************

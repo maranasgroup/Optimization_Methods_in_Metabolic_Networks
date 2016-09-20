@@ -1,0 +1,76 @@
+****************************************
+
+Number of Interventions (k) =        2.00
+
+****************************************
+
+Iteration No. =        1.00
+
+v(ac) = 18.03870910
+
+knockouts :
+
+'ATPS4rpp_f'   0.00000000
+'PDH'   0.00000000
+
+********************
+
+Iteration No. =        2.00
+
+v(ac) = 17.83237738
+
+knockouts :
+
+'ATPS4rpp_f'   0.00000000
+'PGM_f'   0.00000000
+
+********************
+
+Iteration No. =        3.00
+
+v(ac) = 17.83237738
+
+knockouts :
+
+'ATPS4rpp_f'   0.00000000
+'ENO_f'   0.00000000
+
+********************
+
+Iteration No. =        4.00
+
+v(ac) = 16.70928201
+
+knockouts :
+
+'ATPS4rpp_f'   0.00000000
+'TPI_f'   0.00000000
+
+********************
+
+Iteration No. =        5.00
+
+v(ac) = 16.04739347
+
+knockouts :
+
+'ATPS4rpp_f'   0.00000000
+'PSP_L'   0.00000000
+
+********************
+
+Iteration No. =        6.00
+
+v(ac) = 15.77249577
+
+knockouts :
+
+'ATPS4rpp_f'   0.00000000
+'GHMT2r_f'   0.00000000
+
+********************
+
+No feasible solution achieved/max n reached, modelstat :         1.00
+
+
+****************************************

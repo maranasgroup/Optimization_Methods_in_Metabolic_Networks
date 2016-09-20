@@ -1,0 +1,82 @@
+****************************************
+
+Number of Interventions (k) =        2.00
+
+****************************************
+
+Iteration No. =        1.00
+
+v(ac) = 10.19038491
+v(biomass) = 0.65605347
+
+knockouts :
+
+'GLDBRAN2'   0.00000000
+'LPLIPAL2E160'   0.00000000
+
+********************
+
+Iteration No. =        2.00
+
+v(ac) = 10.19038491
+v(biomass) = 0.65605347
+
+knockouts :
+
+'GLDBRAN2'   0.00000000
+'LPLIPAL2A161'   0.00000000
+
+********************
+
+Iteration No. =        3.00
+
+v(ac) = 10.19038491
+v(biomass) = 0.65605347
+
+knockouts :
+
+'EAR60y'   0.00000000
+'LPLIPAL2A180'   0.00000000
+
+********************
+
+Iteration No. =        4.00
+
+v(ac) = 10.19038491
+v(biomass) = 0.65605347
+
+knockouts :
+
+'LPLIPAL2A141'   0.00000000
+'PAPA140'   0.00000000
+
+********************
+
+Iteration No. =        5.00
+
+v(ac) = 10.19038491
+v(biomass) = 0.65605347
+
+knockouts :
+
+'LPLIPAL2A140'   0.00000000
+'PAPA120'   0.00000000
+
+********************
+
+Iteration No. =        6.00
+
+v(ac) = 10.19038491
+v(biomass) = 0.65605347
+
+knockouts :
+
+'LPLIPAL2A180'   0.00000000
+'PAPA161'   0.00000000
+
+********************
+
+No feasible solution achieved/max n reached, modelstat :         1.00
+
+
+****************************************

@@ -1,0 +1,4 @@
+Maximum Succinate Flux : 14.89904762Minimum Biomass Flux : 0
+
+Maximum Succinate Flux : 13.91877988Minimum Biomass Flux : 0.0231304
+

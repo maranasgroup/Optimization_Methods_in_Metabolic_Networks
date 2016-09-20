@@ -1,0 +1,33 @@
+*** list of uptake fluxes from metabolites present in YP medium
+
+/
+* Approximation of YP medium
+
+* Amino Acid
+'EX_ala-L(e)'
+'EX_arg-L(e)'
+'EX_asn-L(e)'
+'EX_asp-L(e)'
+'EX_cys-L(e)'
+'EX_gln-L(e)'
+'EX_glu-L(e)'
+'EX_his-L(e)'
+'EX_ile-L(e)'
+'EX_leu-L(e)'
+'EX_lys-L(e)'
+'EX_met-L(e)'
+'EX_phe-L(e)'
+'EX_pro-L(e)'
+'EX_ser-L(e)'
+'EX_thr-L(e)'
+'EX_trp-L(e)'
+'EX_tyr-L(e)'
+'EX_val-L(e)'
+'EX_gly(e)'
+
+* Nucleotide bases
+'EX_ade(e)'
+'EX_thym(e)'
+'EX_gua(e)'
+'EX_csn(e)'
+/

@@ -1,0 +1,3 @@
+MaxIter 100000
+NLPsol 6
+ExtNLPSolver conopt
